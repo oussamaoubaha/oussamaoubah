@@ -19,11 +19,9 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Json](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -45,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbouray&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbouray&layout=compact&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamaoubaha&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussabamaoubaha&layout=compact&theme=tokyonight" width="45%"/>
 </div>
 
 ---
