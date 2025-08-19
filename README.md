@@ -7,7 +7,7 @@
 
 # 👋 Salut ! Je suis OUBAHA OUSSAMA
 
-🎓 Étudiant en 1ère année de Conception et DEveloppemnt des Logicielsà l’**EST Oujda**  
+🎓 Étudiant en 1 Conception et Developpemnt des Logicielsà l’**EST Oujda**  
 💻 Développeur **Frontend** passionné  
 🛠️ Je maîtrise **HTML**, **CSS** et **JavaScript**  
 🌱 Je m’intéresse au design, à l’accessibilité, et aux bonnes pratiques du web
